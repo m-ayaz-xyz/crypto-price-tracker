@@ -36,7 +36,7 @@ export default function AboutPage() {
           <p>
             View source on{" "}
             <a
-              href="https://github.com/yourusername/crypto-price-tracker"
+              href="https://github.com/m-ayaz-xyz/crypto-price-tracker"
               className="underline"
             >
               GitHub
