@@ -24,7 +24,7 @@ Stay ahead of the volatile crypto market with crypto-price-tracker, a real-time 
 Here are some screenshots of the project:
 
 ![Homepage screenshot](assets/cpt1_demo.png)
-![Dashboard screenshot](assets/cpt1_demo.png)
+![Dashboard screenshot](assets/cpt2_demo.png)
 
 ## 📦 Key Dependencies
 
