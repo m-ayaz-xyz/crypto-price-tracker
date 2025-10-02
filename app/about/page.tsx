@@ -25,7 +25,7 @@ export default function AboutPage() {
           </p>
           <ul className="list-disc pl-6">
             <li>Live price updates for popular cryptocurrencies</li>
-            <li>responsive UI design</li>
+            <li>Responsive UI design</li>
             <li>Tooltips, modals, and other modern UI components via ShadCN</li>
           </ul>
           <p>
